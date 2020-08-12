@@ -63,7 +63,8 @@ Data Sources to solve problem
  2. https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 #### Test Accuracy achieved with IMDB dataset using following algorithms:
-- RNN- 2 LSTM Layers: 85.24%
-- RNN- 1 LSTM Layer: 85.49%
+- RNN- 2 LSTM Layers: 85.24% : https://colab.research.google.com/drive/1LR0vlfJLbw_e2ECeICkKOqGY7PtiKm7z
+- RNN- 1 LSTM Layer: 85.49% : https://colab.research.google.com/drive/1peyWG5zP9R3eJdnkw9TZihc6imyenqXo
+- Pre-processed Text: 85.5% : https://colab.research.google.com/drive/1PulJf43YSeGEI0FHb5pAU5nMkvZtcFwF
 - TF (Keras) Hub Layer: 84.9%
-- Pre-processed Text: 86.2%
+
